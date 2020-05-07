@@ -1,4 +1,4 @@
 function hola(){
-    left nombre = prompt("¿Quien eres?");
+    let nombre = prompt("¿Quien eres?");
     alert(`Hola ${nombre}, Bienvenido`);
 }
